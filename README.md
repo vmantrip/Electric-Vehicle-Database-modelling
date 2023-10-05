@@ -10,9 +10,9 @@
   d. Vehicle Location -> postal code
 3. Entity relationship diagram is generated as per above functional dependicies and foreign keys are determined.
 4. New relations/tables as per the ER diagram are generated and BCNF normalization is performed.
-5. UPDATE, INSERT and DELETE operations are performed into the BCNF database
+5. UPDATE, INSERT and DELETE operations are performed into the BCNF database.
 6. Cost reduction measures are implemented to to enable efficient updates to Normalized database.
-7. Above processes can help in efficient query operations in a database and benifit electric vehicle customers and manufacturers.
+7. Above processes can help in efficient query operations in a database and benefit electric vehicle customers and manufacturers.
     
 
 ## Database description
